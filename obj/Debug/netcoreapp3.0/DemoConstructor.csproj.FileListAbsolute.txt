@@ -1,0 +1,11 @@
+D:\ejercicios\DemoConstructor\bin\Debug\netcoreapp3.0\DemoConstructor.exe
+D:\ejercicios\DemoConstructor\bin\Debug\netcoreapp3.0\DemoConstructor.deps.json
+D:\ejercicios\DemoConstructor\bin\Debug\netcoreapp3.0\DemoConstructor.runtimeconfig.json
+D:\ejercicios\DemoConstructor\bin\Debug\netcoreapp3.0\DemoConstructor.runtimeconfig.dev.json
+D:\ejercicios\DemoConstructor\bin\Debug\netcoreapp3.0\DemoConstructor.dll
+D:\ejercicios\DemoConstructor\bin\Debug\netcoreapp3.0\DemoConstructor.pdb
+D:\ejercicios\DemoConstructor\obj\Debug\netcoreapp3.0\DemoConstructor.csprojAssemblyReference.cache
+D:\ejercicios\DemoConstructor\obj\Debug\netcoreapp3.0\DemoConstructor.AssemblyInfoInputs.cache
+D:\ejercicios\DemoConstructor\obj\Debug\netcoreapp3.0\DemoConstructor.AssemblyInfo.cs
+D:\ejercicios\DemoConstructor\obj\Debug\netcoreapp3.0\DemoConstructor.dll
+D:\ejercicios\DemoConstructor\obj\Debug\netcoreapp3.0\DemoConstructor.pdb
